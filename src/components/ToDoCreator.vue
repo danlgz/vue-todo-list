@@ -44,6 +44,7 @@ export default {
             flex-direction: row;
 
             width: 100%;
+            padding: 0;
 
             button {
                 padding: 0 30px;
