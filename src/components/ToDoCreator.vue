@@ -43,6 +43,8 @@ export default {
             display: flex;
             flex-direction: row;
 
+            width: 100%;
+
             button {
                 padding: 0 30px;
                 border-radius: 0 $radius $radius 0;
@@ -63,6 +65,7 @@ export default {
                 outline: none;
                 border: none;
                 flex: 1;
+                width: inherit;
             }
         }
     }
