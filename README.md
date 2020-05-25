@@ -1,4 +1,4 @@
-# ToDo List
+### This is a learning Vue project 🤙🏻
 
 ![ToDo List APP](./design/todoList.png)
 
